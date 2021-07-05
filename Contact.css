@@ -1,0 +1,9 @@
+body{background-image:url(KIDS.png);
+	background-size: cover;
+	}
+
+#border{
+	background-color:  white;
+	height: 90px;
+	background-size: cover;
+}
